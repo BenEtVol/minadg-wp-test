@@ -1,0 +1,1 @@
+# minadg-wp-test
